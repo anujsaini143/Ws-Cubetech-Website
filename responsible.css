@@ -1,0 +1,352 @@
+@media (max-width:1400px) and (min-width:1100px){
+
+  .headline{
+    font-size: 42px;
+    font-weight: bold;
+ }
+   .six-box{
+      font-size: 16px;
+    }
+    .what-digital{
+      font-size: 16px;
+    }
+    .what-digital img{
+      width: 29px;
+      height: 29px;
+    }
+
+    .whylearn-menu h1{
+      font-size: 30px;
+     }
+     .whylearn-menu p{
+      font-size: 18px;
+     }
+}
+
+@media (max-width:1100px) and (min-width:993px){
+   .six-box{
+      font-size: 16px;
+    }
+    .what-digital{
+      font-size: 16px;
+    }
+    .what-digital img{
+      width: 27px;
+      height: 27px;
+    }
+    .long-width img{
+      width: 900px;
+      height: auto;
+     }
+}
+
+@media (max-width:992px) and (min-width:768px){
+
+  .headline{
+    font-size: 52px;
+    font-weight: bold;
+ }
+    .text input{
+        width: 100%;
+        background-color: transparent;
+     }
+     .text{
+        margin-top: 10px;
+     }
+     .keyhigh p{
+      font-size: 15px;
+    }
+    .topcareer h1{
+      font-size: 32px;
+    }
+    .secondpg p{
+      font-size: 14px;
+    }
+
+    .getcerti-menu h1{
+      font-size: 28px;
+    }
+    .getcerti-menu p{
+      font-size: 11px;
+    }
+
+    .offical-verify h1{
+      font-size: 16px;
+    }
+    .offical-verify p{
+      font-size: 10px;
+    }
+    .six-box{
+      font-size: 12px;
+    }
+    .what-digital{
+      font-size: 14px;
+    }
+    .what-digital img{
+      width: 25px;
+      height: 25px;
+    }
+
+    .whylearn-menu h1{
+      font-size: 26px;
+     }
+     .whylearn-menu p{
+      font-size: 14px;
+     }
+     .threeland-img p{
+      font-size: 16px;
+     }
+
+     .matt-canoon p{
+      font-size: 15px;
+     }
+
+     .long-width img{
+      width: 750px;
+      height: auto;
+     }
+}
+
+@media (max-width:768px) and (min-width:577px){
+    .headline{
+        font-size: 52px;
+        font-weight: bold;
+     }
+     .parg{
+        font-size: 16px;
+     }
+     .list li{
+        font-size: 16px;
+     }
+     .roundd{
+        width: 452px;
+        height: 452px;
+        background: #E9F5FF;
+        border-radius: 50%;
+         
+     }
+     .form-main{
+        width: 304px;
+        height: 391px;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+     }
+     .text{
+        width: 100%;
+        height: 70px;
+     }
+     .text input{
+        width: 100%;
+        background-color: transparent;
+     }
+    .text .rn{
+        width: 100%;
+        background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+        border: none;
+     }
+     .keyhigh p{
+      font-size: 14px;
+    }
+    .topcareer h1{
+      font-size: 22px;
+    }
+    .secondpg p{
+      font-size: 12px;
+    }
+    .getcerti-menu h1{
+      font-size: 24px;
+    }
+    .getcerti-menu p{
+      font-size: 11px;
+    }
+
+    .offical-verify h1{
+      font-size: 18px;
+    }
+    .offical-verify p{
+      font-size: 11px;
+    }
+    .six-box{
+      font-size: 12px;
+    }
+
+    .what-digital{
+      font-size: 12px;
+    }
+    .what-digital img{
+      width: 20px;
+      height: 20px;
+    }
+
+    .whylearn-menu h1{
+      font-size: 22px;
+     }
+     .whylearn-menu p{
+      font-size: 12px;
+     }
+     .threeland-img p{
+      font-size: 14px;
+     }
+
+     .matt-canoon p{
+      font-size: 13px;
+     }
+
+     .matt-canoon {
+      font-size: 10px;
+     }
+     .matt-canoon-img1 img{
+      width: 50px;
+      height: 50px;
+     }
+     .matt-canoon-img2 img{
+      width: 172px;
+      height: 37px;
+     }
+
+     .long-width img{
+      width: 650px;
+      height: auto;
+     }
+ }
+ 
+ 
+ @media (max-width:576px) and (min-width:0px){
+     
+    .logo{
+        width: 100%;
+    }
+    .wa-btn{
+        width:50px;
+    }
+     .call-btn{
+        width: 50px;
+     }
+     .headline{
+        font-size: 30px;
+        font-weight: bold;
+     }
+     .parg{
+        font-size: 14px;
+     }
+     .list li{
+        font-size: 16px;
+     }
+      .btn{
+        font-size: 8px;
+      }
+
+      .roundd{
+        width: 352px;
+        height: 352px;
+        background-color: white;
+        border-radius: 50%;
+         
+     }
+     .form-main{
+        width: 100%;
+        height: 291px;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+     }
+     .text{
+        width: 100%;
+        height: 70px;
+     }
+     .text input{
+        width: 100%;
+        background-color: transparent;
+     }
+    .text .rn{
+        width: 100%;
+        background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+        border: none;
+     }
+     .box h1{
+      font-size: 20px;
+     }
+     .box p{
+      font-size: 12px;
+     }
+     .keyhigh h1{
+      font-size: 20px;
+    }
+    .keyhigh p{
+      font-size: 7px;
+    }
+
+    .assignment h1{
+      font-size: 14px;
+    }
+    .assignment p{
+      font-size: 10px;
+    }
+    .topcareer h1{
+      font-size: 14px;
+    }
+    .secondpg p{
+      font-size: 8px;
+    }
+
+    .getcerti-menu h1{
+      font-size: 18px;
+    }
+    .getcerti-menu p{
+      font-size: 9px;
+    }
+
+    .offical-verify h1{
+      font-size: 16px;
+    }
+    .offical-verify p{
+      font-size: 7px;
+    }
+
+    .our-digital h1{
+      font-size: 24px;
+    }
+    .our-digital p{
+      font-size: 9px;
+    }
+    .what-digital{
+      font-size: 10px;
+    }
+    .what-digital img{
+      width: 16px;
+      height: 16px;
+    }
+
+    .whylearn-menu h1{
+      font-size: 18px;
+     }
+     .whylearn-menu p{
+      font-size: 9px;
+     }
+     .threeland-img h1{
+      font-size: 16px;
+     }
+     .threeland-img p{
+      font-size: 12px;
+     }
+
+     .matt-canoon {
+      font-size: 8px;
+     }
+     .matt-canoon-img1 img{
+      width: 40px;
+      height: 40px;
+     }
+     .matt-canoon-img2 img{
+      width: 152px;
+      height: 27px;
+     }
+     .long-width img{
+      width: 325px;
+      height: auto;
+     }
+ }
+  

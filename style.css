@@ -1,0 +1,159 @@
+.header{
+
+}
+.wa-btn{
+    width:166px ;
+    height: 40px;
+    border: 2px solid green !important;
+    color: green;
+}
+.call-btn{
+width: 90px;
+height: 40px;
+background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%)
+}
+ .headline{
+    font-size: 52px;
+    font-weight: bold;
+ }
+ .parg{
+    font-size: 22px;
+ }
+ .list li{
+    font-size: 22px;
+ }
+ .dm{
+    background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+    background-clip:text ;
+    text-fill-color:transparent;
+    -webkit-background-clip:text ;
+    -webkit-text-fill-color:transparent;
+ }
+ .f1{
+    background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%)
+ }
+ .roundd{
+    width: 552px;
+    height: 552px;
+    background: #E9F5FF;
+    border-radius: 50%;
+ }
+ .form-main{
+    width: 410px;
+    height: 491px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+ .text{
+    width: 330px;
+    height: 70px;
+ }
+ .text input{
+    width: 100%;
+ }
+.text .rn{
+    width: 100%;
+    background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+    border: none;
+ }
+ .box h1{
+   background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+    background-clip:text ;
+    text-fill-color:transparent;
+    -webkit-background-clip:text ;
+    -webkit-text-fill-color:transparent;
+    font-size: 30px;
+ }
+  
+ 
+ .mainn{
+   background: #F7FAFF;
+ }
+ .keyhigh h1{
+   font-size: 36px;
+ }
+ .keyhigh p{
+   font-size: 22px;
+ }
+ .assignment h1{
+   font-size: 20px;
+ }
+ .assignment p{
+   font-size: 15px;
+ }
+ .book-free{
+   background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+ }
+ .topcareer h1{
+   font-size: 44px;
+ }
+ .secondpg p{
+   font-size: 18px;
+ }
+ .contentmarket h1{
+   font-size: 18px;
+ }
+ .contentmarket p{
+   font-size: 15px;
+ }
+ .getcerti{
+   background: #F7FAFF;
+ }
+ .getcerti-menu h1{
+   font-size: 36px;
+ }
+ .getcerti-menu p{
+   font-size: 18px;
+ }
+ .offical{
+   background: #E9F5FF;
+ }
+ .offical-verify h1{
+   font-size: 20px;
+ }
+ .btncertifacti{
+   background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+ }
+ .our-digital h1{
+   font-size: 44px;
+ }
+ .our-digital p{
+   font-size: 18px;
+ }
+ .six-box{
+   font-size: 18px;
+ }
+ .what-digital{
+   font-size: 22px;
+ }
+ .what-digital img{
+   width: 32px;
+   height: 32px;
+ }
+ .Download-Curriculum{
+  background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+ }
+ .whylearn{
+  background: #F7FAFF;
+ }
+ .whylearn-menu h1{
+  font-size: 36px;
+ }
+ .whylearn-menu p{
+  font-size: 18px;
+ }
+ .threeland-img h1{
+  font-size: 20px;
+ }
+ .threeland-img p{
+  
+ }
+ .matt-canoon{
+  font-size: 18px;
+ }
+ .readycourse{
+  background-image: linear-gradient( to bottom right , #0ACEFE 0%, #2699FB 100%);
+ }
+ 
